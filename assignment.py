@@ -1,2 +1,2 @@
-print("Hello world")
+print("Conflict")
 print("File with merger conflict")
